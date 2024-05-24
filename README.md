@@ -19,7 +19,7 @@ Kenya Integrated Disaster Management Service (KEIDMS) is an innovative web appli
 ## Getting Started
 Clone this repository
 ```sh
-git clone https://github.com/asad1996172/Disaster-Management-System
+git clone https://github.com/kelvinnmuia/Kenya-Integrated-Disaster-Management-Service.git
 ```
 
 To enable administrator acces in VScode for Windows run ```Set-ExecutionPolicy Unrestricted```
